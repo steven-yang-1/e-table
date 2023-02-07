@@ -1,4 +1,4 @@
-## **E-Table 页面滑动固定表格标题**
+## **E-Table 页面滑动时-固定表格标题**
 ### EEE Fixed Table Header
 
 ![E-Table](https://gitee.com/steven-yang-blue/e-table/raw/master/E-Table.png)
