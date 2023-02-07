@@ -1,0 +1,24 @@
+.ETable {
+    overflow-x: auto;
+}
+.ETable table {
+    table-layout: fixed;
+}
+.EFixedHeader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    overflow-x: auto;
+}
+.EFixedHeader table {
+    table-layout: fixed;
+    overflow-x: scroll;
+}
+.EFixedHeader::-webkit-scrollbar {
+    display: none;
+}
+/* Parameters */
+.ETable table, .EFixedHeader table {
+    width: 1200px;
+}
