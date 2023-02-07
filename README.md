@@ -13,5 +13,5 @@ v1.0.0
 例子
 - /src/ETableSample.html
 
-作者：Steven Yang（杨泰然）
+作者（程序/Logo）：Steven Yang（杨泰然）
 @steven-yang-blue
