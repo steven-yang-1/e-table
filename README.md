@@ -11,7 +11,7 @@ v1.0.0
 - JQuery >= 3.6.3
 
 例子
-- ETableSample.html
+- /src/ETableSample.html
 
 作者：Steven Yang（杨泰然）
 @steven-yang-blue
